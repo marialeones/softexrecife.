@@ -1,0 +1,11 @@
+Pesquise sobre os grafos e apresente dois exemplos de como são utilizados no contexto tecnológico.
+
+
+Quando algumas arestas tem setas informa o sentido definido, sendo assim, não existe um caminho contrário.
+
+Quando os grafos não são direcionados, não há uma seta indicando um sentido, a aresta pode ir em vários sentidos, sendo assim, não são pares ordenados de vértices.
+
+Os grafos são estruturas que permitem codificar relacionamento entre pares de objetos. Não é necessario que todas os vértices estejam conectados com todas as arestas e nem vice-versa.
+Exemplo de grafos: um programador precisa desenvolver um codigo, que ajude a chegar a um destino desconhecido, para isso e necessario desenvolver um programa, que auxilia na rota ate o destino final (como um GPS).
+
+Outro exemplo: uma pessoa planeja fazer uma corrida por um determinado local, e ao analisar, percebeu que para percorrer o percurso, necessita conhecer o local, para assim, poder chegar ate o final da corrida, essa pessoa ao vê o mapa das ruas onde ia correr, pode analisar que tinha alguns pontos de destino, como: ruas e avenidas. Onde a avenida é a vértice e as ruas as linhas são as arestas. 
