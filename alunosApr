@@ -1,0 +1,37 @@
+"""Após uma prova de vestibular, uma escola quer identificar quantos dos seus alunos foram aprovados em cada turma de formandos.
+Ela quer saber qual aluno teve a maior nota e de qual turma ele é. Nessa escola, há quatro turmas (A, B, C e D) com vinte e cinco alunos cada.
+Elabore um algoritmo que solicite o nome e a nota do vestibular aos alunos. Depois, informe quantos deles foram aprovados,
+de que turma são, qual a maior nota em cada turma e qual aluno teve a maior nota de todas.
+Para que o aluno seja aprovado no vestibular, ele deverá obter nota maior ou igual a 7."""
+
+alunosAprovados = []
+sala = []
+maiorNota = 0
+menorNota = 0
+
+
+for i in range(0,4):
+    aluno = input("Digite o nome do aluno: ")
+    turma = input("Digite sua turma: (A, B, C e D) ")
+    nota = int(input("Digite sua nota: "))
+    if nota >= 7:
+        alunosAprovados.append(aluno)
+        sala.append(turma)
+        n = len(alunosAprovados)
+
+    if i == 1:
+        maiorNota = nota
+        menorNota = nota
+    else:
+        if nota > maiorNota:
+            maiorNota = nota
+        if nota < menorNota:
+            menorNota = nota 
+media = (nota + nota) / 4
+print(media)
+print("\n")
+print(f"A maior nota da turma foi: {maiorNota}, á menor nota da turma foi: {menorNota}.")
+print(f"Alunos aprovados são {alunosAprovados}, da turma: {sala}, e a quantidade de alunos aprovados foi: {n}.")
+print("\n")
+
+         
