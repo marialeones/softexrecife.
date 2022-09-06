@@ -1,0 +1,7 @@
+Cite três exemplos de dados utilizados no seu cotidiano (exemplo: termômetro) e pesquise três outros exemplos em que dados na internet
+ são usados (exemplo: criação de um usuário em rede social digital).
+
+
+Dados usados no cotidiano: Horario de um relógio, nota de uma prova, preço de um determinado produto.
+
+Dados na internet: Login de email, Criação de conta de usúario para um determinado site, finalizar uma compra online.
