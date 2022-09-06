@@ -1,0 +1,39 @@
+package Nome;
+
+
+public class Lista {
+	public static void main(String[] args) {
+		
+		//lista de produtos de um supermercado e o valor dos produtos.
+		
+		String produto1 = "Macarao";
+		String produto2 = "Massa de trigo";
+		String produto3 = "Carne";
+		float precoProduto1 = (float) 3.80;
+		float precoProduto2 = (float) 7.50;
+		float precoProduto3 = (float) 25.00;
+		
+		
+	
+	System.out.print("O produto, ");
+	System.out.print(produto1);
+	System.out.print(" Tem valor de: ");
+	System.out.println(precoProduto1);
+	
+	System.out.print("O produto, ");
+	System.out.print(produto2);
+	System.out.print(" Tem valor de: ");
+	System.out.println(precoProduto2);
+	
+	System.out.print("O produto, ");
+	System.out.print(produto3);
+	System.out.print(" Tem valor de: ");
+	System.out.println(precoProduto3);
+
+
+
+		
+		
+		
+}
+}
