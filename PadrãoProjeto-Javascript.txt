@@ -1,0 +1,17 @@
+
+Singleton
+
+  Esse padrão de criação de um projeto, tem a finalidade de garantir que o objeto seja único, ou que o objeto terá apenas uma instância única,
+que está disponível de forma única para todo o escopo de uma aplicação.
+
+  Singleton – define um método estático que permite aos clientes obterem o objeto único. Ele também será responsável pelo processo de criação do objeto.
+ 
+O uso do padrão Singleton está condicionado a:
+
+* Quando for necessário manter num sistema, seja ele distribuído ou não, apenas uma instância de objeto e que o ponto de acesso para este bem conhecido 
+(Ex. objeto por impressão numa rede, gerenciador de janela responsável);
+* Quando um único cliente pode ser extensível através de subclasses, ao usar uma instância flexível sem alterar seu código 
+(visões polimórficas).
+
+
+Referência:  https://www.devmedia.com.br/conheca-os-padroes-de-projeto/957
