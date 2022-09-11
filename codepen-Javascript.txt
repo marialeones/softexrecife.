@@ -1,0 +1,3 @@
+A plataforma digital de codificar JavaScript que eu escolhi foi codepen, pois aborda a estrutura da linguagem 
+e as ferramentas necessarias como o HTML e CSS. Sendo assim a estrutura de codigo, fica simples de ser visualizada
+e de facil aprendizado.
