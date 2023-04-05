@@ -1,0 +1,19 @@
+Alguns exemplos de Sistemas de Bancos de Dados relacionais são:
+
+MySQL
+Oracle
+PostgreSQL
+SQL Server
+SQLite
+
+Já os exemplos de Sistemas de Bancos de Dados não relacionais (NoSQL) são:
+
+MongoDB
+Cassandra
+Redis
+Apache HBase
+Couchbase
+
+Vale ressaltar que existem outros Sistemas de Bancos de Dados relacionais e não relacionais
+ disponíveis no mercado, e a escolha de um sistema depende das necessidades específicas de 
+ cada projeto.
