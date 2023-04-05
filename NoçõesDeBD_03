@@ -1,0 +1,26 @@
+A normalização de dados é um processo de organização de tabelas em um banco de dados 
+relacional com o objetivo de evitar anomalias e redundâncias. O processo de normalização 
+envolve a aplicação de uma série de regras conhecidas como Formas Normais (FN), que definem 
+critérios para garantir que as tabelas sejam organizadas de maneira eficiente e sem 
+redundâncias desnecessárias.
+
+As formas normais mais comuns incluem:
+
+Primeira Forma Normal (1FN): Nessa forma normal, todos os atributos de uma tabela devem 
+ser atômicos, ou seja, indivisíveis. Além disso, cada tabela deve ter uma chave primária 
+que identifica exclusivamente cada linha da tabela.
+
+Segunda Forma Normal (2FN): Nessa forma normal, todas as colunas que não fazem parte da 
+chave primária devem depender completamente da chave primária. Isso significa que uma 
+tabela não deve ter atributos que dependam parcialmente da chave primária. Se houver, 
+esses atributos devem ser movidos para outra tabela.
+
+Terceira Forma Normal (3FN): Nessa forma normal, todas as colunas que não fazem parte da 
+chave primária devem depender apenas da chave primária. Isso significa que não deve haver 
+dependências transitivas entre as colunas. Se houver, as colunas dependentes devem ser 
+movidas para outra tabela.
+
+Forma Normal de Boyce-Codd (BCNF): Essa forma normal é semelhante à 3FN, mas mais 
+restritiva. Em uma tabela que está na BCNF, cada dependência funcional deve ser uma 
+dependência funcional trivial, ou seja, a chave primária deve ser a única determinante 
+de cada outra coluna da tabela.
