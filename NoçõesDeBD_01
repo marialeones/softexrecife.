@@ -1,0 +1,20 @@
+Dados: São fatos que descrevem um objeto, evento ou entidade. Eles podem ser armazenados em diversos formatos,
+ como texto, números, imagens, áudio, entre outros.
+
+Banco de dados: É um conjunto de dados organizados e estruturados em uma ou mais tabelas, com o objetivo de 
+facilitar o armazenamento, recuperação, atualização e exclusão de informações. Um banco de dados é gerenciado 
+por um Sistema de Gerenciamento de Banco de Dados (SGBD).
+
+Modelo de dados: É uma representação abstrata de um banco de dados que define a estrutura e os relacionamentos 
+entre os dados. Existem diversos modelos de dados, como o modelo relacional, hierárquico, em rede, orientado a 
+objetos, entre outros.
+
+Metadados: São dados que descrevem outros dados. Eles fornecem informações sobre o conteúdo, formato, estrutura
+ e relacionamentos dos dados em um banco de dados. Os metadados são usados ​​para auxiliar o gerenciamento e a 
+ organização dos dados e para permitir que os usuários acessem e entendam os dados com mais facilidade.
+
+Catálogo de dados: É um conjunto de metadados que descreve a estrutura e os relacionamentos dos objetos em um 
+banco de dados. O catálogo de dados é mantido pelo SGBD e é usado para armazenar informações sobre as tabelas, 
+índices, visões, triggers, procedimentos armazenados e outras entidades que compõem o banco de dados. 
+O catálogo de dados também fornece informações sobre as permissões de acesso aos dados e as restrições de 
+integridade.
