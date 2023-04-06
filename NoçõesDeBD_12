@@ -1,0 +1,7 @@
+Existem várias práticas e métodos que podem ser adotados para melhorar a segurança das senhas dos funcionários de uma empresa. Abaixo, cito três opções:
+
+Fortalecimento da política de senhas: a empresa pode criar uma política de senhas forte que oriente os funcionários a criar senhas complexas e únicas para cada conta. Essa política deve estabelecer requisitos mínimos de complexidade, como tamanho mínimo, uso de caracteres especiais e números, além de exigir que as senhas sejam trocadas periodicamente.
+
+Uso de autenticação de dois fatores: a autenticação de dois fatores (2FA) adiciona uma camada extra de segurança à senha tradicional. Com essa opção, além de digitar a senha, o usuário precisa fornecer um segundo fator de autenticação, como um código enviado via SMS, um token gerado por um aplicativo, uma biometria, entre outros.
+
+Uso de gerenciador de senhas: os gerenciadores de senhas são ferramentas que criam e armazenam senhas complexas para cada conta de um usuário. Dessa forma, o usuário só precisa se lembrar de uma senha mestra para acessar todas as suas contas. Isso ajuda a evitar o uso de senhas fáceis ou repetidas em várias contas, o que pode comprometer a segurança em caso de vazamento de senhas.
