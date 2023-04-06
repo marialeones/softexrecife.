@@ -1,0 +1,29 @@
+A segurança de dados é uma preocupação constante em qualquer sistema que armazena 
+informações sensíveis, especialmente em empresas que lidam com dados de clientes, 
+transações financeiras, informações confidenciais, entre outros. Para desenvolver um 
+banco de dados seguro, é importante seguir alguns pilares fundamentais da segurança de 
+dados:
+
+Confidencialidade: Garantir que as informações armazenadas no banco de dados não possam 
+ser acessadas por pessoas não autorizadas. Isso pode ser feito por meio de mecanismos de 
+autenticação e autorização, que permitem que apenas usuários com credenciais válidas 
+possam acessar as informações protegidas.
+
+Integridade: Garantir que as informações armazenadas no banco de dados sejam precisas e 
+confiáveis. Isso pode ser alcançado por meio de mecanismos de validação de dados, como 
+chaves primárias, chaves estrangeiras e restrições de integridade, que ajudam a prevenir 
+a inserção de dados incorretos ou inconsistentes.
+
+Disponibilidade: Garantir que as informações armazenadas no banco de dados estejam sempre 
+disponíveis para usuários autorizados. Isso pode ser feito por meio de mecanismos de 
+redundância, backup e recuperação de desastres, que ajudam a minimizar o tempo de 
+inatividade do sistema.
+
+Privacidade: Garantir que as informações armazenadas no banco de dados sejam protegidas 
+de acordo com as leis de privacidade aplicáveis. Isso pode ser alcançado por meio de 
+políticas de privacidade claras e mecanismos de proteção de dados, como criptografia e 
+mascaramento de dados.
+
+Auditoria: Garantir que todas as atividades no banco de dados sejam registradas e 
+monitoradas para detectar comportamentos suspeitos ou violações de segurança. Isso pode 
+ser alcançado por meio de logs de auditoria e ferramentas de monitoramento de segurança.
