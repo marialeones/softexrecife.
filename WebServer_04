@@ -1,0 +1,24 @@
+As seis regras de uma API REST, também conhecidas como Restful API, são as seguintes:
+
+Arquitetura cliente-servidor: a comunicação deve ser separada em cliente e servidor, 
+permitindo que as partes evoluam independentemente.
+
+Stateless: cada requisição para o servidor deve conter toda a informação necessária para 
+ser compreendida e processada, sem que seja necessário manter um estado de sessão. Isso
+ permite que o servidor possa tratar cada requisição de forma isolada.
+
+Cache: o servidor deve permitir que as respostas possam ser cacheadas em algum nível, 
+como no cliente ou em um proxy, por exemplo.
+
+Interface uniforme: a interface deve ser uniforme, com recursos identificados por URLs, 
+utilização de métodos HTTP (GET, POST, PUT, DELETE) para manipulação de recursos, retorno
+ de respostas com códigos HTTP padronizados e representação dos dados no formato escolhido 
+ (XML, JSON, entre outros).
+
+Sistema em camadas: o sistema deve ser composto por camadas, permitindo que cada camada 
+tenha uma funcionalidade específica e que seja responsável por gerenciar seu próprio 
+processamento.
+
+Código sob demanda (opcional): a capacidade de enviar código executável para o cliente, 
+a fim de estender as funcionalidades da API, é opcional e pode ser considerada como uma 
+regra extra, já que nem todas as APIs Restful possuem essa capacidade.
